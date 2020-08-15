@@ -59,7 +59,7 @@ p {
 }
 
 .landing-box > .avatar {
-  border-radius: 100%;
+  clip-path: circle(50% at 50% 50%);
   width: 5rem;
   height: 5rem;
   background-image: url(https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP1415-CUSA03724_00-AV00000000000192/1580202515000/image?w=240&h=240&bg_color=000000&opacity=100&_version=00_09_000);
